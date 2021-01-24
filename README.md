@@ -1,8 +1,8 @@
 ## Metis Data Science Bootcamp Project2
-### Cost of a Home in San Francisco
+## Cost of a Home in San Francisco
 
 ### Description
- High paid jobs, great food, fun activities, fabulous weather, just to name a few of the reasons San Francisco has attracted talents all over the United States. Some may come and go. However, many love the  city enough to consider buying a house and staying long-term. For those who are thinking of purchasing a house in the city, they may want to know:
+ High paid jobs, great food, fun activities, fabulous weather, just to name a few of the reasons San Francisco has attracted talent all over the United States. Some may come and go. However, many love the  city enough to consider buying a home and staying long-term. For those who are thinking of purchasing a home in the city, they may want to know:
 1. is this a good time to buy? 
 2. what property type can we offer? 
 3. where in the city is more affordable? 
@@ -12,7 +12,7 @@ Property price in San Francisco has increased continously from 2012 to 2019 for 
 
 ### Features and Target Variables
 Features:
-- property address (zip code)
+- property zip code
 - size
 - beds
 - baths
@@ -30,5 +30,5 @@ Target variable: price sold
 Web scraped data from Redfin
 
 ### Possible impacts of my project
-- Help home buyers in San Francisco to determine if they could afford to buy a hosue in the city and to make informed decision on house price offer. 
-- This can also help house owners who are considering selling their property to determine if it's a good time to sell now and set a reasonable listing price for their property
+- Help home buyers in San Francisco determine if they could afford to buy a home in the city and to make informed decision on house price offers. 
+- This can also help property owners who consider selling their properties to determine if it's a good time to sell now and set a reasonable listing price for their properties.
