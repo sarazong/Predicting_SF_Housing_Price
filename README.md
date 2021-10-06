@@ -1,7 +1,7 @@
 ## Metis_project2: Cost of a Home in San Francisco
 
 ### Description
-High paid jobs, great food, fun activities, fabulous weather, just to name a few of the reasons San Francisco has attracted talent all over the United States. Many love the city enough to consider buying a home and staying long-term. For those who are thinking of purchasing a home in the city, they may want to know:
+High paid jobs, great food, fun activities, fabulous weather, just to name a few of the reasons San Francisco has attracted talent all over the United States. Many love the city enough to consider buying properties to make San Francisco their home. For those who are thinking of purchasing a home in the city, they may want to know:
 1. is this a good time to buy? 
 2. which property type can buyers afford, and in which area? 
 3. what are some sample properties being sold at the median property price? 
